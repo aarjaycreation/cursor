@@ -1,9 +1,9 @@
 #!/bin/bash
-wget https://cursor.so/resources.zip
-wget https://cursor.so/lsp.zip
+wget https://github.com/aarjaycreation/cursor/raw/main/resources.zip
+wget https://github.com/aarjaycreation/cursor/raw/main/lsp.zip
 
 unzip resources.zip
 unzip lsp.zip
 
-rm ./resources.zip
-rm ./lsp.zip
+# rm ./resources.zip
+# rm ./lsp.zip
