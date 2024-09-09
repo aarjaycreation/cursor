@@ -107,15 +107,15 @@ data/
 .DS_Store
 config.json
 
-/*.py
+# /*.py
 
-out/
-build/
-/lsp/
-settings.json
-resources/**
-lsp/**
-*.zip
-scripts/**
+# out/
+# build/
+# /lsp/
+# settings.json
+# resources/**
+# lsp/**
+# *.zip
+# scripts/**
 
-run_todesktop.sh
+# run_todesktop.sh
